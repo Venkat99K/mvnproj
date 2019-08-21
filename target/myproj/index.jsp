@@ -6,11 +6,11 @@
         <title>Hello Java EE 70 Continuous Delivery!</title>
     </head>
     <body>
-        <h1> GOOD DAY </h1>
+        <h1> GOOD DAY To Every One </h1>
         <h1> NICE DAY </h1>
         <h1> New HTML code added </h1> 
         <h1> Demo Code for POLL SCM </h1> 
-  <table border = "1" bordercolor = "green" bgcolor = "yellow">
+  <table border = "1" bordercolor = "red" bgcolor = "yellow">
          <tr>
             <th>Column 1</th>
             <th>Column 2</th>
